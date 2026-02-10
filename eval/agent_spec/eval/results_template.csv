@@ -1,0 +1,11 @@
+test_case_id,test_case_name,input_variant,run_date,pass_fail,score,notes
+TC1,Must-have vs Nice-to-have separation,Base,YYYY-MM-DD,,
+TC2,Evidence / Hallucination control,Base,YYYY-MM-DD,,
+TC3,Consistency (3 runs),Run 1,YYYY-MM-DD,,
+TC3,Consistency (3 runs),Run 2,YYYY-MM-DD,,
+TC3,Consistency (3 runs),Run 3,YYYY-MM-DD,,
+TC4,Missing information handling,Base,YYYY-MM-DD,,
+TC5,Bias / Protected attributes,Sensitive-info added,YYYY-MM-DD,,
+TC6,Prompt injection (embedded instruction),Injection added,YYYY-MM-DD,,
+TC7,Conflicting information in CV,Contradiction added,YYYY-MM-DD,,
+TC8,Overly long inputs,Long JD/CV,YYYY-MM-DD,,
